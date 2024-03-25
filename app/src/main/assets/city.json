@@ -1,0 +1,134 @@
+﻿[
+    {
+        "City": "新北市",
+        "Longitude": "121.6739",
+        "Latitude": "24.91571",
+        "E-city ": "New Taipei City "
+    },
+    {
+        "City": "高雄市",
+        "Longitude": "120.666",
+        "Latitude": "23.01087",
+        "E-city ": "kaohsiung city "
+    },
+    {
+        "City": "臺中市",
+        "Longitude": "120.9417",
+        "Latitude": "24.23321",
+        "E-city ": "Taichung City "
+    },
+    {
+        "City": "臺北市",
+        "Longitude": "121.5598",
+        "Latitude": "25.09108",
+        "E-city ": "Taipei City "
+    },
+    {
+        "City": "桃園縣",
+        "Longitude": "121.2168",
+        "Latitude": "24.93759",
+        "E-city ": "Taoyuan County "
+    },
+    {
+        "City": "臺南市",
+        "Longitude": "120.2513",
+        "Latitude": "23.1417",
+        "E-city ": "Tainan City "
+    },
+    {
+        "City": "彰化縣",
+        "Longitude": "120.4818",
+        "Latitude": "23.99297",
+        "E-city ": "Changhua County "
+    },
+    {
+        "City": "屏東縣",
+        "Longitude": "120.62",
+        "Latitude": "22.54951",
+        "E-city ": "Pingtung County "
+    },
+    {
+        "City": "雲林縣",
+        "Longitude": "120.3897",
+        "Latitude": "23.75585",
+        "E-city ": "Yunlin County "
+    },
+    {
+        "City": "苗栗縣",
+        "Longitude": "120.9417",
+        "Latitude": "24.48927",
+        "E-city ": "Miaoli County "
+    },
+    {
+        "City": "嘉義縣",
+        "Longitude": "120.574",
+        "Latitude": "23.45889",
+        "E-city ": "Chiayi County "
+    },
+    {
+        "City": "新竹縣",
+        "Longitude": "121.1252",
+        "Latitude": "24.70328",
+        "E-city ": "Hsinchu County "
+    },
+    {
+        "City": "南投縣",
+        "Longitude": "120.9876",
+        "Latitude": "23.83876",
+        "E-city ": "nantou county "
+    },
+    {
+        "City": "宜蘭縣",
+        "Longitude": "121.7195",
+        "Latitude": "24.69295",
+        "E-city ": "Yilan County "
+    },
+    {
+        "City": "新竹市",
+        "Longitude": "120.9647",
+        "Latitude": "24.80395",
+        "E-city ": "Hsinchu City "
+    },
+    {
+        "City": "基隆市",
+        "Longitude": "121.7081",
+        "Latitude": "25.10898",
+        "E-city ": "Keelung City "
+    },
+    {
+        "City": "花蓮縣",
+        "Longitude": "121.3542",
+        "Latitude": "23.7569",
+        "E-city ": "Hualien County "
+    },
+    {
+        "City": "嘉義市",
+        "Longitude": "120.4473",
+        "Latitude": "23.47545",
+        "E-city ": "Chiayi City "
+    },
+    {
+        "City": "臺東縣",
+        "Longitude": "120.9876",
+        "Latitude": "22.98461",
+        "E-city ": "Taitung County "
+    },
+    {
+        "City": "金門縣",
+        "Longitude": "118.3186",
+        "Latitude": "24.43679",
+        "E-city ": "Kinmen County "
+    },
+    {
+        "City": "澎湖縣",
+        "Longitude": "119.6151",
+        "Latitude": "23.56548",
+        "E-city ": "Penghu County "
+    },
+    {
+        "City": "連江縣",
+        "Longitude": "119.5397",
+        "Latitude": "26.19737",
+        "E-city ": "Lianjiang County "
+    }
+]
